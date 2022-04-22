@@ -1,0 +1,13 @@
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\bin\Debug\netcoreapp3.1\VietWorshipStore.Data.deps.json
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\bin\Debug\netcoreapp3.1\VietWorshipStore.Data.runtimeconfig.json
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\bin\Debug\netcoreapp3.1\VietWorshipStore.Data.runtimeconfig.dev.json
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\bin\Debug\netcoreapp3.1\VietWorshipStore.Data.dll
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\bin\Debug\netcoreapp3.1\VietWorshipStore.Data.pdb
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\obj\Debug\netcoreapp3.1\VietWorshipStore.Data.csproj.AssemblyReference.cache
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\obj\Debug\netcoreapp3.1\VietWorshipStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\obj\Debug\netcoreapp3.1\VietWorshipStore.Data.AssemblyInfoInputs.cache
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\obj\Debug\netcoreapp3.1\VietWorshipStore.Data.AssemblyInfo.cs
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\obj\Debug\netcoreapp3.1\VietWorshipStore.Data.csproj.CoreCompileInputs.cache
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\obj\Debug\netcoreapp3.1\VietWorshipStore.Data.dll
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\obj\Debug\netcoreapp3.1\VietWorshipStore.Data.pdb
+D:\SETUP\tvn201386\Desktops\KDTVN-IT\1.Projects\VietWorshipStore\VietWorshipStore.Data\obj\Debug\netcoreapp3.1\VietWorshipStore.Data.genruntimeconfig.cache
